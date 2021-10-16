@@ -1,0 +1,5 @@
+Declaration	Declaring a variable as a specific data type.
+Assignment	Assigning a value to a variable.
+Initialisation	Assigning an initial value to a variable to let the compiler know that a memory location is required.
+Variable	A value held under one name.
+Naming convention	A unified standard for naming things in a chosen programming language.
